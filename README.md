@@ -1,5 +1,5 @@
 ## Greetings!
-_______
+
 
 This is Allan Limo, Upcoming Software Developer :desktop_computer:	
 ________
