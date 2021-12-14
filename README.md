@@ -8,7 +8,7 @@
 
 ##
 
- :pencil2:	Student at <a href="https://moringaschool.com">Moringa School</a> (Grduated)
+ :pencil2:	Student at <a href="https://moringaschool.com">Moringa School</a> (Graduated)
  
  ##
  
