@@ -1,7 +1,7 @@
 ## Greetings!
 
 
-### This is Allan Limo, Upcoming Software Developer :desktop_computer:	
+### This is Allan Limo, Software Developer &  ISTQB certified QA Engineer :desktop_computer:	
 ## 
 
  :briefcase:	Web & Graphic designer at <a href="https://www.conquestcapitalltd.com/" target="_blank">Conquest Capital Ltd</a>(Former)
