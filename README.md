@@ -4,11 +4,11 @@
 ### This is Allan Limo, Software Developer &  ISTQB certified QA Engineer :desktop_computer:	
 ## 
 
- :briefcase:	Web & Graphic designer at <a href="https://www.conquestcapitalltd.com/" target="_blank">Conquest Capital Ltd</a>(Former)
+ :briefcase:Software Defeloper <a href="https://www.cellulant.io/" target="_blank">Cellulant</a>
 
 ##
 
- :pencil2:	Student at <a href="https://moringaschool.com">Moringa School</a> (Graduated)
+ :pencil2:	Alumni <a href="https://moringaschool.com">Moringa School</a> (Graduated)
  
  ##
  
