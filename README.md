@@ -1,7 +1,6 @@
 ## Greetings!
 
-
-### This is Allan Limo, Software Developer &  ISTQB certified QA Engineer :desktop_computer:	
+<a href="https://www.cellulant.io/" target="_blank">Cellulant</a> &  ISTQB certified QA Engineer :desktop_computer:	
 ## 
 
  :briefcase:Software Developer <a href="https://www.cellulant.io/" target="_blank">Cellulant</a>
